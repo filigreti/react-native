@@ -4,7 +4,6 @@ import Welcome from './src/components/login/Welcome';
 import {createStackNavigator} from 'react-navigation'
 import HomeScreen from './src/components/home/HomeScreen'
 
-
 export default class App extends React.Component {
   render() {
     return (
